@@ -1,0 +1,22 @@
+{
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "terra-zen@aednichols.com"
+    }
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "zen.js"
+      ],
+      "matches": [
+        "*://*.terra.bio/*",
+        "*://*.appspot.com/*"
+      ]
+    }
+  ],
+  "description": "Silences Terra notifications",
+  "manifest_version": 2,
+  "name": "Terra Zen",
+  "version": "1.0"
+}
