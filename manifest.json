@@ -10,8 +10,11 @@
         "zen.js"
       ],
       "matches": [
-        "*://*.terra.bio/*",
-        "*://*.appspot.com/*"
+        "*://app.terra.bio/*",
+        "*://bvdp-saturn-dev.appspot.com/*",
+        "*://bvdp-saturn-alpha.appspot.com/*",
+        "*://bvdp-saturn-perf.appspot.com/*",
+        "*://bvdp-saturn-staging.appspot.com/*"
       ]
     }
   ],
