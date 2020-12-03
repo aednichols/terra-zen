@@ -18,8 +18,14 @@
       ]
     }
   ],
-  "description": "Silences Terra notifications",
+  "description": "Hides Terra notifications",
   "manifest_version": 2,
   "name": "Terra Zen",
-  "version": "1.1"
+  "version": "1.2",
+  "icons": {
+    "16": "turtle_16.png",
+    "48": "turtle_48.png",
+    "96": "turtle.svg",
+    "128": "turtle_128.png"
+  }
 }
