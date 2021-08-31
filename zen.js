@@ -8,6 +8,6 @@ document.body.addEventListener('DOMSubtreeModified', function(event) {
 
 // NPS score
 document.body.addEventListener('DOMSubtreeModified', function(event) {
-    const elements = document.getElementsByClassName("animate__animated animate__slideInRight");
+    const elements = document.getElementsByClassName("animate__animated animate__fadeIn");
     while (elements.length > 0) elements[0].remove();
 });
