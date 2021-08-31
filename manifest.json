@@ -21,7 +21,7 @@
   "description": "Hides Terra notifications",
   "manifest_version": 2,
   "name": "Terra Zen",
-  "version": "1.2",
+  "version": "1.2.1",
   "icons": {
     "16": "turtle_16.png",
     "48": "turtle_48.png",
